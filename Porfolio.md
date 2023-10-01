@@ -3,7 +3,7 @@
 ## A bit about myself
 
 I am a student in 5th year of ingeneering school, in France.
-I specialized in software development and is able to code in various languages but my favorites are the C languages. I also know the basics of networks and systems.
+I specialized in software development and am able to code in various languages but my favorites are the C languages. I also know the basics of networks and systems.
 
 In my free time, I love to play video games, take care of my animals and plants, or walking in the forest !
 
